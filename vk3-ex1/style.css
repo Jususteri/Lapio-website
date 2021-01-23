@@ -1,3 +1,10 @@
-p {
-background-color: red;
+.punkku {
+color: red;
+}
+* { 
+color: pink;
+} 
+
+#sininen-kohta { 
+color: blue;
 }
